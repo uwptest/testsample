@@ -1,4 +1,3 @@
-<script type="text/javaScript">
 
 function myfunction(){
     const randomColor = Math.floor(Math.random()*16777215).toString(16);
@@ -6,4 +5,4 @@ function myfunction(){
 window.external.notify("data");
 
 }
-</script>
+
